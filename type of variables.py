@@ -1,0 +1,6 @@
+n=int(input("enter the input:"))
+m=float(input("enter the input:"))
+p=str(input("enter the input:"))
+print(type(n))
+print(type(m))
+print(type(p))
